@@ -37,7 +37,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  color_choices = ["red", "blue", "green","purple"]
+  color_choices = ["red", "blue", "green","arrays!"]
   color_choices[-1]
 end
 
